@@ -178,7 +178,7 @@ public class TheWindow extends JPanel implements ActionListener {
    public static void main(String[] args) {
         
        BinaryTree tree = new BinaryTree();
-       JFrame f = new JFrame("Binary Tree");
+       JFrame f = new JFrame("B Tree");
        JOptionPane.showMessageDialog(frame, "Bem-vindo"
                + "\n\nEste programa funciona digitando algumas letras do seu teclado"
                + "\nEntão, as operações que você pode usar são:"
